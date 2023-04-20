@@ -10,5 +10,5 @@ class flask_interface():
 
   #if __name__ == "__name__":  
   if __name__ == "app":
-    print("hello")
+    print("hello2")
     app.run(host = '0.0.0.0', debug = True)
